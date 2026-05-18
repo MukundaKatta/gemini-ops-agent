@@ -3,7 +3,9 @@
 A production-incident investigation agent built on **Google Cloud Agent
 Builder (ADK)**, **Gemini 2.5**, and the **Dynatrace MCP server**.
 
-Open source under Apache 2.0.
+**Live demo:** https://gemini-ops-agent-1029931682737.us-central1.run.app
+**Demo video:** https://storage.googleapis.com/geminilens-demo-mukunda/gemini-ops-agent-demo.mp4 (2:18, 3.3 MB)
+**License:** Apache 2.0
 
 ## What it does
 

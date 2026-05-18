@@ -53,8 +53,9 @@ google-cloud-run, geminilens, apache-2
 
 ## Try it out
 - Code repo: https://github.com/MukundaKatta/gemini-ops-agent
-- Live demo (Cloud Run): <PASTE_CLOUD_RUN_URL_AFTER_DEPLOY>
-- Demo video: <PASTE_VIDEO_URL_AFTER_REC>
+- Live demo (Cloud Run): https://gemini-ops-agent-1029931682737.us-central1.run.app
+- Demo video (local backup on GCS, 2:18, 3.3 MB): https://storage.googleapis.com/geminilens-demo-mukunda/gemini-ops-agent-demo.mp4
+- **Demo video for submission (YouTube): user must upload to YouTube/Vimeo per rule 7B**
 
 ## Submission checklist
 - [x] Powered by Gemini
